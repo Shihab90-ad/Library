@@ -1,0 +1,56 @@
+@media screen {
+.buttomhr{
+    width: 98%;
+    margin-left: 1.5%;
+    border: 2px solid rgb(5, 5, 90);
+    border-radius: 5px; 
+  }
+  .bottommanu{
+    width: 100%;
+    
+  }
+  /* .bottommanu a{
+    text-decoration: none;
+    float: center;
+    margin-right: 6%;
+    text-align: left;
+    color: black;
+    font-size: 19px;
+    text-shadow: 1px 1px 3px black;
+  } */
+
+
+  element.style {
+  }
+  .bottommanu .s {
+      float: right;
+      padding-left: 0px !important;
+    }
+  .bottommanu a {
+      text-decoration: none;
+      margin: auto;
+      text-align: center;
+      color: black;
+      font-size: 19px;
+      text-shadow: 1px 1px 3px black;
+      padding: 0px 24px !important;
+      padding-left: 52px !important;
+  }
+    
+
+  .bottommanu a:hover{
+    color: #130233;
+  }
+  .bottommanu  .active{
+    float: left;
+    padding-left:50px;
+  }
+  .bottommanu .s{
+    float: right;
+    padding-right: 70px;
+  }
+  .bottommanu .c{
+    float: right;
+    padding-right: -70px;
+  }
+  }
